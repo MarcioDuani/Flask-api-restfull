@@ -1,4 +1,4 @@
-# Flask-Scoreboard
+# Api Flask para Scoreboard de tenis de mesa.
 
 api desenvolvida com python e framwork Flask.
 
